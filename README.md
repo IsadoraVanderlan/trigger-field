@@ -4,7 +4,7 @@
  Este Gatilho é Dedicados aos Programadores ADVPL.
 =======
  
-Este gatilho tem como objetivo criar gatilho para campo e acrescentar valor sobre o valor digitado.
+Este gatilho tem como objetivo criar gatilho para campo e acrescentar porcentagem sobre o valor digitado.
 
 
 
